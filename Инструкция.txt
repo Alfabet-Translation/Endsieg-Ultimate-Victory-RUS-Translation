@@ -1,0 +1,12 @@
+Endsieg: Ultimate Victory Русская Локализация
+---------------------------------------------
+
+
+Как установить
+==============
+
+Папку endsieg_RUS и файл endsieg_rus.mod из архива распаковать сюда:
+
+C:\Users\*Username*\Documents\Paradox Interactive\Hearts of Iron IV\mod
+
+Включить мод в лаунчере. Играть.
