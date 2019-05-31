@@ -1,44 +1,44 @@
 ﻿l_russian:
 ###### WW1 victory localisation is in events_l_english on line 4329 #######
 kaiserschlachtvictory.1.t:0 "Отправить предложение мира французам?"
-kaiserschlachtvictory.1.d:0 "We have taken control of Northern France, and thus the bulk of French industry and resources. We have entered the gates of Paris and Versailes, just as we have in 1871. Shall we end this war, just as our forefathers have, with an honourable peace?"
-kaiserschlachtvictory.1.a:0 "Send the offer. We shall ensure that this time, the peace shall remain."
-kaiserschlachtvictory.1.b:0 "No, we shall conquer all!"
+kaiserschlachtvictory.1.d:0 "Мы взяли под контроль Северную Францию и основную часть Французской промышленности и ресурсов. Мы прошли через ворота Парижа и Версаля, как в 1871. Закончим ли мы ее как наши предшественники: почетным миром?"
+kaiserschlachtvictory.1.a:0 "Отправьте предложение. Мы позаботимся о том, чтобы на этот раз воцарился мир."
+kaiserschlachtvictory.1.b:0 "Нет, мы должны захватить всё!"
 
 kaiserschlachtvictory.2.t:0 "Германия предлагает перемирие!"
-kaiserschlachtvictory.2.d:0 "We have lost the bulk of our industry, resources, and most importantly our capital city, Paris. Whilst we could resist the dreaded Boche, chances are that the Germans are going to only give us harsher terms if we were to refuse the armistice now."
-kaiserschlachtvictory.2.a:0 "We must end this war, even if we are on the losing side."
-kaiserschlachtvictory.2.b:0 "We shall fight to the bitter end."
+kaiserschlachtvictory.2.d:0 "Мы потеряли основную часть промышленности, ресурсов и, что самое важное, нашу столицу - Париж. Хотя мы можем сопротивляться Бошам, есть шанс, что в случае отказа от перемирия немцы введут более жесткие условия."
+kaiserschlachtvictory.2.a:0 "Нам следует закончить эту войну, несмотря на то, что мы проиграли."
+kaiserschlachtvictory.2.b:0 "Мы будем бороться до победного конца"
 
 kaiserschlachtvictory.3.t:0 "Французы отказываются от перемирия!"
-kaiserschlachtvictory.3.d:0 "The French have refused our offer of an armistice! We have no choice but to fight to the bitter end now."
-kaiserschlachtvictory.3.a:0 "If the French wish to continue this senseless slaughter, so be it."
+kaiserschlachtvictory.3.d:0 "Французы отказались от нашего предложения о перемирии! У нас нет выбора, кроме как сражаться до конца."
+kaiserschlachtvictory.3.a:0 "Если Французы желают продолжить бессмысленное кровопролитие, значит так тому и быть."
 
 kaiserschlachtvictory.4.t:0 "Франция сдается! Подписано перемирие Марны!"
-kaiserschlachtvictory.4.d:0 "With our successful Spring Offensive, the so-called Kaiserschlacht, as the soldiers are calling it now, and the subsequent capture of Paris, the Third French Republic has officially agreed to an armistice which has been signed at Marne today ending the war between our two countries. France has agreed to demobilize its military and expel British forces from the mainland as soon as possible with a peace treaty to be soon written under our termss. \n\n With the French out of the war, the rest of the Entente shall follow suit with negotiations on an armistice and final treaty soon."
-kaiserschlachtvictory.4.a:0 "We are victorious!"
+kaiserschlachtvictory.4.d:0 "Благодаря нашему успешному Весеннему Наступлению, так называемому Kaiserschlacht, как его называют солдаты, и последующему захвату Парижа, Третья Французская Республика оффициально согласилась на перемирие, подписанное сегодня в Марне и положившее конец войне между нашими странами. Франция согласилась распустить армию и изгнать Британские силы с материка как можно скорее, подписав соглашение на наших условиях.\n\n Без участия Франции в войне, остальная часть Антанты последует их примеру с переговорами о перемирии и подписанием окончательного соглашения."
+kaiserschlachtvictory.4.a:0 "Мы победили!"
 
 kaiserschlachtvictory.5.t:0 "Французы приняли немецкое перемирие"
-kaiserschlachtvictory.5.d:0 "The French have agreed to an armistice with the Germans, and as such, the war on mainland Europe is over. Regardless of victories and defeats in battles, it would seem that the war is sadly lost. With the French out of the war, it will only be a matter of time before the Germans come streaming through the Turks to retake Africa, and our economy and people will never support a never-ending war."
-kaiserschlachtvictory.5.a:0 "To a peace, with honor."
-kaiserschlachtvictory.5.b:0 "Britons shall never be slaves!"
+kaiserschlachtvictory.5.d:0 "Франция согласилась на перемирие с Германией, и, таким образом, война на материковой части Европы окончена. Независимо от побед и поражений в битвах, может показаться, что война обидно проиграна. Без Франции это лишь вопрос времени, когда Германия пройдет через Турцию, чтобы вернуть себе Африку. Наша экономика и люди никогда не поддержат бесконечную войну.
+kaiserschlachtvictory.5.a:0 "Заключить перемирие."
+kaiserschlachtvictory.5.b:0 "Британцы никогда не будут рабами!"
 
 kaiserschlachtvictory.6.t:0 "Британия согласна на перемирие!"
-kaiserschlachtvictory.6.d:0 "With the fall of France and the expulsion of British forces from mainland Europe the United Kingdom has bitterly agreed to an Armistice between our two nations which has been signed today at Calais. While the process of drawing up a final treaty shall start soon between our nations it is unlikely that we will be able to make any drastic decisions as the United Kingdom still has the worlds largest fleet and the best protection from invasion in the form of an island."
-kaiserschlachtvictory.6.a:0 "Victory is ours!"
+kaiserschlachtvictory.6.d:0 "После паделния Франции и изгнания Британских сил из Европы Великобритания с горечью согласилось на перемирие между нашими нациями, которое было подписано сегодня в Кале. Хотя подготовка окончательного договора между нашими странами только начинается, маловероятно, что мы сможем принять какие-либо радикальные решения поскольку Великобритания по-прежнему имеет крупнейший флот и лучшую защиту от вторжения."
+kaiserschlachtvictory.6.a:0 "Победа наша!"
 
 kaiserschlachtvictory.7.t:0 "Британцы отказываются от мира!"
-kaiserschlachtvictory.7.d:0 "The British have refused our offers of ceasefire, although whether we will go to war with them again remains to be seen..."
-kaiserschlachtvictory.7.a:0 "Preposterous!"
+kaiserschlachtvictory.7.d:0 "Британцы отказались принимать наше предложение о перемирии, хотя будем ли мы с ними снова воевать еще предстоит выяснить..."
+kaiserschlachtvictory.7.a:0 "Глупцы!"
 
 kaiserschlachtvictory.8.t:0 "Мир с Центральными державами?"
-kaiserschlachtvictory.8.d:0 "Since turning our backs on the Triple Alliance, now the Central Powers, it would seem that the promises that Britain and France made will never come to fruition. As much as we wish for Italy to be unified, it would seem that we should have chosen to reclaim our old posessions in France instead..."
-kaiserschlachtvictory.8.a:0 "Let us hope for a lenient peace."
-kaiserschlachtvictory.8.b:0 "The dream of Italia Irridente, a unified Italy, shall never die!"
+kaiserschlachtvictory.8.d:0 "С тех пор как мы отвернулись от Тройственного союза, ныне Центральных Сил, становится понятно, что обещания, данные Британией и Францией никогда не сбудутся. Как бы мы не хотели видеть Италию объединенной, похоже, что надо было возвращать наши старые владения во Франции."
+kaiserschlachtvictory.8.a:0 "Будем надеяться на снисходительный мир."
+kaiserschlachtvictory.8.b:0 "Мечта об объединенной, неискупленной Италии никогда не умрет!"
 
 kaiserschlachtvictory.9.t:0 "Италия согласна на перемирие"
-kaiserschlachtvictory.9.d:0 "With France gone and the United Kingdom with the Americans shortly following suite the Italians have reluctantly agreed to an Armistice near Vittorio Veneto along with pressure of the people to whom the unpopularity of the war has grown very much over these past few years, the process of drawing up a final treaty shall begin soon."
-kaiserschlachtvictory.9.a:0 "They should've stayed with us!"
+kaiserschlachtvictory.9.d:0 "После капитуляции Франции и сразу последовавших их примеру Британцев и Американцев, под давлением народа, недовольного войной, Итальянцы неохотно согласились на перемирие возле Витторио Венето. Процесс подготовки окончательного договора начнется в близжайшее время."
+kaiserschlachtvictory.9.a:0 "Им следовало оставаться с нами!"
 
 kaiserschlachtvictory.10.t:0 "Италия отказывается от перемирия!"
 kaiserschlachtvictory.10.d:0 "The Italians have chosen to fight on to the bitter end. With diplomacy failing us in this our of need we will have to do this the hard way."
