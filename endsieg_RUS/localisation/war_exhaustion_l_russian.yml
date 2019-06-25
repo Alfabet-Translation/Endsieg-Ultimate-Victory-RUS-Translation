@@ -1,0 +1,6 @@
+﻿l_russian:
+WAR_EXHAUSTION_TOOLTIP:0 "У вас есть [?war_exhaustion_variable] дней §Hwar exhaustion.§\n\nВы получаете [?war_exhaustion_daily] военное истощение в день во время войны. Ты испытываешь [?peace_exhaustion_daily] военного истощения в день, находясь в мире."
+WAR_EXHAUSTION_TOOLTIP_DELAYED:0 "Чем дольше ваша страна находится в состоянии войны, тем более серьезным будет военное истощение. Находясь в мире, этот счетчик сбросится."
+WAR_EXHAUSTION_OPTIONS:0 "Варианты улучшения"
+WAR_EXHAUSTION_OPTION_PP_PAYMENT:0 "Потратить §Y200 политической власти§! и произнести речь, снизив истощение от войны на 150"
+WAR_EXHAUSTION_OPTION_STABILITY_PAYMENT:0 "Потратить §Y5% стабильности§! и повысить интерес к войне, снизив военное истощение на 200"

@@ -1,0 +1,12 @@
+﻿l_russian:
+synthetic_refinery:0 "Нефтеперерабатывающий завод"
+synthetic_refinery_plural:0 "Нефтеперерабатывающие заводы"
+trench:0 "Траншея"
+trench_desc:0 "Траншея - длинный узкий ров, используемый преимущественно для оборонительных позиций, который накладывает штраф на атакующую сторону $VALUE|+%0$ за каждый уровень траншеи"
+synthetic_rubber_refinery:0 "Синтетический завод по изготовлению резины"
+synthetic_rubber_refinery_plural:0 "Синтетические заводы по изготовлению резины"
+synthetic_rubber_refinery_desc:0 "Это сооружение производит в регионе"
+synthetic_rubber_refinery_amount:1 "$VALUE|Y1=$"
+synthetic_rubber_refinery_resource:1 "£resources_strip|$FRAME$"
+modifier_production_speed_synthetic_rubber_refinery_factor:0 "§YЗавод по изготовлению резины§! - скорость строительства"
+modifier_production_speed_synthetic_refinery_factor:0 "Скорость строительства синтетического нефтеперерабатывающего завода"

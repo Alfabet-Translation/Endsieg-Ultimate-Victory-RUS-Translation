@@ -1,0 +1,135 @@
+﻿l_russian:
+left_wing_radical_drift:0 "Ежедневная поддержка левого радикализма"
+leninist_drift:0 "Ежедневная поддержка ленинизма"
+stalinist_drift:0 "Ежедневная поддержка сталинизма"
+anarchist_drift:0 "Ежедневная поддержка анархизма"
+
+market_liberal_drift:0 "Ежедневная поддержка рыночного либерализма"
+social_conservative_drift:0 "Ежедневная поддержка социал-консерватизма"
+social_liberal_drift:0 "Ежедневная поддержка социал-либерализма"
+social_democrat_drift:0 "Ежедневная поддержка социал-демократизма"
+
+fascism_drift:0 "Ежедневная поддержка фашизма"
+populist_drift:0 "Ежедневная поддержка популизма"
+national_socialist_drift:0 "Ежедневная поддержка национал-социализма"
+
+neutrality_drift:0 "Ежедневная поддержка нейтралитета"
+paternal_autocrat_drift:0 "Ежедневная поддержка отечественной автократии"
+
+populist_acceptance:0 "Принятие популистской дипломатии"
+national_socialist_acceptance:0 "Принятие национал-социалистической дипломатии"
+paternal_autocrat_acceptance:0 "Принятие отечественной автократической дипломатии"
+communism_acceptance:0 "Принятие коммунистической дипломатии"
+left_wing_radical_acceptance:0 "Принятие дипломатии левого радикализма"
+leninist_acceptance:0 "Принятие ленинской дипломатии"
+stalinist_acceptance:0 "Принятие сталинской дипломатии"
+anarchist_acceptance:0 "Принятие анархистской дипломатии"
+social_democrat_acceptance:0 "Принятие социал-демократической дипломатии"
+social_liberal_acceptance:0 "Принятие социальной либеральной дипломатии"
+market_liberal_acceptance:0 "Принятие дипломатии рыночного либерализма"
+social_conservative_acceptance:0 "Принятие дипломатии социального консерватизма"
+democratic_acceptance:0 "Принятие демократической дипломатии"
+fascism_acceptance:0 "Принятие фашистской дипломатии"
+neutrality_acceptance:0 "Принятие нейтральной дипломатии"
+
+#Nationalist
+
+anti_populist_raids:0 "Рейды против популистов"
+anti_populist_raids_desc:0 "Мы должны разобраться с популистическими элементами у себя дома ради долгосрочной стабильности в стране. Их влияние настолько велико, что рискует стать потенциальной проблемой для правительства."
+
+anti_national_socialist_raids:0 "Рейды против национал-социалистов"
+anti_national_socialist_raids_desc:0 "Мы должны разобраться с националистическими элементами у себя дома ради долгосрочной стабильности в стране. Их влияние настолько велико, что рискует стать потенциальной проблемой для правительства."
+
+#Democratic
+
+anti_market_liberal_raids:0 "Рейды против рыночных либералов"
+anti_market_liberal_raids_desc:0 "Мы должны разобраться с демократическими элементами у себя дома ради долгосрочной стабильности в стране. Их влияние настолько велико, что рискует стать потенциальной проблемой для правительства."
+
+anti_social_conservative_raids:0 "Рейды против социал-консерваторов"
+anti_social_conservative_raids_desc:0 "Мы должны разобраться с демократическими элементами у себя дома ради долгосрочной стабильности в стране. Их влияние настолько велико, что рискует стать потенциальной проблемой для правительства."
+
+anti_social_liberal_raids:0 "Рейды против социал-либералов"
+anti_social_liberal_raids_desc:0 "Мы должны разобраться с демократическими элементами у себя дома ради долгосрочной стабильности в стране. Их влияние настолько велико, что рискует стать потенциальной проблемой для правительства."
+
+anti_social_democrat_raids:0 "Рейды против социал-демократов"
+anti_social_democrat_raids_desc:0 "Мы должны разобраться с демократическими элементами у себя дома ради долгосрочной стабильности в стране. Их влияние настолько велико, что рискует стать потенциальной проблемой для правительства."
+
+#Communist
+
+anti_left_wing_radical_raids:0 "Рейды против левых радикалов"
+anti_left_wing_radical_raids_desc:0 "Мы должны разобраться с коммунистическими элементами у себя дома ради долгосрочной стабильности в стране. Их влияние настолько велико, что рискует стать потенциальной проблемой для правительства."
+
+anti_leninist_raids:0 "Рейды против ленинистов"
+anti_leninist_raids_desc:0 "Мы должны разобраться с коммунистическими элементами у себя дома ради долгосрочной стабильности в стране. Их влияние настолько велико, что рискует стать потенциальной проблемой для правительства."
+
+anti_stalinist_raids:0 "Рейды против сталинистов"
+anti_stalinist_raids_desc:0 "Мы должны разобраться с коммунистическими элементами у себя дома ради долгосрочной стабильности в стране. Их влияние настолько велико, что рискует стать потенциальной проблемой для правительства."
+
+anti_anarchist_raids:0 "Рейды против анархистов"
+anti_anarchist_raids_desc:0 "Мы должны разобраться с коммунистическими элементами у себя дома ради долгосрочной стабильности в стране. Их влияние настолько велико, что рискует стать потенциальной проблемой для правительства."
+
+#Banned Nationalism
+ban_populist_party:0 "Запрет популизма"
+ban_national_socialist_party:0 "Запрет национал-социализма"
+
+#Banned Democracy
+ban_market_liberal_party:0 "Запрет рыночного либерализма"
+ban_social_conservative_party:0 "Запрет социаного консерватизма"
+ban_social_liberal_party:0 "Запрет социального либерализма"
+ban_social_democrat_party:0 "Запрет социал-демократии"
+
+#Banned Communism
+ban_left_wing_radical_party:0 "Запрет левого радикализма"
+ban_leninist_party:0 "Запрет ленинизма"
+ban_stalinist_party:0 "Запрет сталинизма"
+ban_anarchist_party:0 "Запрет анархизма"
+
+#Tooltips banned Nationalism
+ban_populist_party_tt:1 "Изменение популярности популизма: §G-§![?.Root.party_popularity@populist|%0G].\n"
+ban_national_socialist_party_tt:1 "Изменение популярности национал-социализма: §G-§![?.Root.party_popularity@national_socialist|%0G].\n"
+
+#Tooltips banned Democracy
+ban_market_liberal_party_tt:1 "Изменение популярности рыночного либерализма: §G-§![?.Root.party_popularity@market_liberal|%0G].\n"
+ban_social_conservative_party_tt:1 "Изменение популярности социального консерватизма: §G-§![?.Root.party_popularity@social_conservative|%0G].\n"
+ban_social_liberal_party_tt:1 "Изменение популярности социального либерализма: §G-§![?.Root.party_popularity@social_liberal|%0G].\n"
+ban_social_democrat_party_tt:1 "Изменение популярности социал-демократии: §G-§![?.Root.party_popularity@social_democrat|%0G].\n"
+
+#Tooltips banned Communism
+ban_left_wing_radical_party_tt:1 "Изменение популярности левого радикализма: §G-§![?.Root.party_popularity@left_wing_radical|%0G].\n"
+ban_leninist_party_tt:1 "Изменение популярности ленинизма: §G-§![?.Root.party_popularity@leninist|%0G].\n"
+ban_stalinist_party_tt:1 "Изменение популярности сталинизма: §G-§![?.Root.party_popularity@stalinist|%0G].\n"
+ban_anarchist_party_tt:1 "Изменение популярности анархизма: §G-§![?.Root.party_popularity@anarchist|%0G].\n"
+
+#Press Censorship Democracy
+institute_press_censorship_market_liberal_state:0 "Цензура прессы"
+institute_press_censorship_social_conservative_state:0 "Цензура прессы"
+institute_press_censorship_social_liberal_state:0 "Цензура прессы"
+institute_press_censorship_social_democrat_state:0 "Цензура прессы"
+
+#Press Censorship Democracy Description
+institute_press_censorship_market_liberal_state_desc:0 "В это опасное время мы не можем позволить, чтобы выражения недовольства вносили раскол в наш народ. Ограничение свободы прессы необходимо для того, чтобы никто не смог заглушить голос истины."
+institute_press_censorship_social_conservative_state_desc:0 "В это опасное время мы не можем позволить, чтобы выражения недовольства вносили раскол в наш народ. Ограничение свободы прессы необходимо для того, чтобы никто не смог заглушить голос истины."
+institute_press_censorship_social_liberal_state_desc:0 "В это опасное время мы не можем позволить, чтобы выражения недовольства вносили раскол в наш народ. Ограничение свободы прессы необходимо для того, чтобы никто не смог заглушить голос истины."
+institute_press_censorship_social_democrat_state_desc:0 "В это опасное время мы не можем позволить, чтобы выражения недовольства вносили раскол в наш народ. Ограничение свободы прессы необходимо для того, чтобы никто не смог заглушить голос истины."
+
+#Press Censorship Nationalist
+institute_press_censorship_populist_state:0 "Цензура прессы"
+institute_press_censorship_fascism_state:0 "Цензура прессы"
+institute_press_censorship_national_socialist_state:0 "Цензура прессы"
+
+#Press Censorship Nationalist Description
+institute_press_censorship_populist_state_desc:0 "В это опасное время мы не можем позволить, чтобы выражения недовольства вносили раскол в наш народ. Ограничение свободы прессы необходимо для того, чтобы никто не смог заглушить голос истины."
+institute_press_censorship_fascism_state_desc:0 "В это опасное время мы не можем позволить, чтобы выражения недовольства вносили раскол в наш народ. Ограничение свободы прессы необходимо для того, чтобы никто не смог заглушить голос истины."
+institute_press_censorship_national_socialist_state_desc:0 "В это опасное время мы не можем позволить, чтобы выражения недовольства вносили раскол в наш народ. Ограничение свободы прессы необходимо для того, чтобы никто не смог заглушить голос истины."
+
+#Press Censorship Democracy
+institute_press_censorship_left_wing_radical_state:0 "Цензура прессы"
+institute_press_censorship_leninist_state:0 "Цензура прессы"
+institute_press_censorship_stalinist_state:0 "Цензура прессы"
+institute_press_censorship_anarchist_state:0 "Цензура прессы"
+
+#Press Censorship Democracy Description
+institute_press_censorship_left_wing_radical_state_desc:0 "В это опасное время мы не можем позволить, чтобы выражения недовольства вносили раскол в наш народ. Ограничение свободы прессы необходимо для того, чтобы никто не смог заглушить голос истины."
+institute_press_censorship_leninist_state_desc:0 "В это опасное время мы не можем позволить, чтобы выражения недовольства вносили раскол в наш народ. Ограничение свободы прессы необходимо для того, чтобы никто не смог заглушить голос истины."
+institute_press_censorship_stalinist_state_desc:0 "В это опасное время мы не можем позволить, чтобы выражения недовольства вносили раскол в наш народ. Ограничение свободы прессы необходимо для того, чтобы никто не смог заглушить голос истины."
+institute_press_censorship_anarchist_state_desc:0 "В это опасное время мы не можем позволить, чтобы выражения недовольства вносили раскол в наш народ. Ограничение свободы прессы необходимо для того, чтобы никто не смог заглушить голос истины."
