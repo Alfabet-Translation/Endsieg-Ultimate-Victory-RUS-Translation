@@ -1601,8 +1601,8 @@ GEN_industrial_path_4_desc:0 ""
 
  # Soviet Russia Focus Tree
 
- SOV_new_ww2_soviet_man:0 "New Soviet Man"
- SOV_new_ww2_soviet_man_desc:0 "The New Soviet Man is selfless, learned, disciplined and healthy; a living triumph over base instincts and false consciousness. Men will gladly lay down their lives for the good of all, and women will bear many children for the future of Soviet society."
+ SOV_new_ww2_soviet_man:0 "Новый советский человек"
+ SOV_new_ww2_soviet_man_desc:0 "Новый советский человек - самоотверженный, образованный, дисциплинированный, здоровый. Живой триумф над базовыми инстинктами и ложным сознанием. Мужчины с радостью сложат свою жизнь на всеобщее благо, а женщины будут рожать много детей для будущего советского общества."
  SO2_industrial_effort:0 "Развитие промышленности"
  SO2_industrial_effort_desc:0 ""
  SO2_infrastructure_effort_1:0 "Развитие инфраструктуры I"
@@ -1804,7 +1804,8 @@ GEN_industrial_path_4_desc:0 ""
 
  #TODO
 
- SO2_southern_expansion:0 "Southern Expansion"
+ SO2_southern_expansion:0 "Южная экспансия"
+ SO2_southern_expansion_desc:0 ""
  SO2_treaty_of_kars:0 "Карсский договор"
  SO2_treaty_of_kars_desc:0 "После захвата и реинтеграции транкавказских государств настало время соединить наши границы с Турецкой Республикой."
  SO2_intervene_PSSR:0 "Вмешаться в дела Персии"
