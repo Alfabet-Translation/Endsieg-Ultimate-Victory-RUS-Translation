@@ -428,6 +428,14 @@
     shared_INT_army_focus:0 "Армейский фокус"
     shared_INT_army_focus_desc:0 ""
 
+    shared_INT_support_equipment_1:0 "Пехотное снапяжение 1"
+    shared_INT_infantry_equipment_1_desc:0 ""
+    shared_INT_infantry_equipment_2:0 "Пехотное снапяжение 2"
+    shared_INT_infantry_equipment_2_desc:0 ""
+
+    shared_INT_infantry_equipment_3:0 "Пехотное снапяжение 3"
+    shared_INT_infantry_equipment_3_desc:0 ""
+
     shared_INT_support_equipment_1:0 "Дополнительное оснащение 1"
     shared_INT_support_equipment_1_desc:0 ""
 
